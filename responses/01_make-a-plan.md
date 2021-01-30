@@ -66,7 +66,7 @@ Mapping users, keeping commit comments, and other data migrations are more compl
 
   :sparkles: Terrific! @{{ user.username}} since you already have the project locally, you are _almost_ ready to move it to GitHub.
 
-  But, this course guides you through the necessary steps to migrate your repository from another version control system unto GitHub. Since your project is already on your local machine, you need slightly different instructions. Please join the [Uploading your local project to GitHub]({{ host }}/courses/uploading-your-local-project) course to learn how to handle your case.
+  But, this course guides you through the necessary steps to migrate your repository from another version control system unto GitHub. Since your project is already on your local machine, you need slightly different instructions. Please join the [Uploading your local project to GitHub]({{ host }}/githubtraining/uploading-your-local-project) course to learn how to handle your case.
 
   <hr>
 </details>
@@ -101,7 +101,7 @@ If you don't have a repository to use for this activity, you are welcome to use 
 
   1. Download a copy of the project to your local machine.
   1. Remove version control (with Git this is as simple as running `rm -rf .git` inside the repository).
-  1. Now that your project is local on your machine and you have removed any history being tracked by Git, the remaining steps in this course largely cover migrating that Git history. Since you just removed that aspect of your project, please join the [Uploading your local project to GitHub]({{ host }}/courses/uploading-your-local-project) course to see the next steps to upload your local project to GitHub.
+  1. Now that your project is local on your machine and you have removed any history being tracked by Git, the remaining steps in this course largely cover migrating that Git history. Since you just removed that aspect of your project, please join the [Uploading your local project to GitHub]({{ host }}/githubtraining/uploading-your-local-project) course to see the next steps to upload your local project to GitHub.
 
   <hr>
 </details>
